@@ -2,9 +2,9 @@
 /*
 Plugin Name: Remove Meta genrators 
 Version: 0.1
-Plugin URL: http://ehostcloud.com
-Author: Dinesh kumar krishna
-Author URI: http://ehostcloud.com
+Plugin URL: https://ehostcloud.com
+Author: Ehostcloud Services
+Author URI: https://ehostcloud.com
 Description: It removes meta-generators of visual composer,layer slider,revoution slider, wordpress.
 */
 //Remove wp generators like theme,slider
