@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Remove Meta genrators 
-Version: 0.1
+Version: 1.0
 Plugin URL: https://ehostcloud.com
 Author: Ehostcloud Services
 Author URI: https://ehostcloud.com
